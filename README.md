@@ -19,6 +19,12 @@
 - Task 3.3 - Correlation Heatmap
 - Task 3.4 - Pivot Table Analysis
 
+ ### Tasks 4 Completed
+- Task 4.1 - Train Test Split
+- Task 4.2 - Linear Regression Model
+- Task 4.3 - Model Prediction
+- Task 4.4 - Model Evaluation
+
  ## ✅ Level 5 Completed
 
 - Task 5.1 - Decision Tree Model
