@@ -19,6 +19,13 @@
 - Task 3.3 - Correlation Heatmap
 - Task 3.4 - Pivot Table Analysis
 
+ ## ✅ Level 5 Completed
+
+- Task 5.1 - Decision Tree Model
+- Task 5.2 - Random Forest Model
+- Task 5.3 - Model Comparison
+- Task 5.4 - Best Model Selection
+
 ## 🛠 Technologies
 - Python
 - Pandas
