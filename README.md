@@ -32,6 +32,17 @@
 - Task 5.3 - Model Comparison
 - Task 5.4 - Best Model Selection
 
+ ## ✅ Level 6 Completed
+
+### Task 6.1 – Final Interactive Machine Learning Project
+
+- Built the final end-to-end Machine Learning project.
+- Trained and saved the prediction model.
+- Loaded the saved model for predictions.
+- Accepted user input for journey details.
+- Predicted journey duration using the trained model.
+- Completed the complete ML workflow successfully.
+
 ## 🛠 Technologies
 - Python
 - Pandas
