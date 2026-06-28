@@ -12,6 +12,13 @@
 - Task 2.3 - Journey Duration Calculation
 - Task 2.4 - Feature Engineering
 
+ ## ✅ Level 3 Completed
+
+- Task 3.1 - Distance vs Journey Duration Visualization
+- Task 3.2 - Stops vs Journey Duration Visualization
+- Task 3.3 - Correlation Heatmap
+- Task 3.4 - Pivot Table Analysis
+
 ## 🛠 Technologies
 - Python
 - Pandas
